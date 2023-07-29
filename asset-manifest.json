@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://adeways2000.github.io/csb-j5fh65/static/js/main.b8be8bf2.chunk.js",
+    "main.js.map": "https://adeways2000.github.io/csb-j5fh65/static/js/main.b8be8bf2.chunk.js.map",
+    "runtime-main.js": "https://adeways2000.github.io/csb-j5fh65/static/js/runtime-main.c5197176.js",
+    "runtime-main.js.map": "https://adeways2000.github.io/csb-j5fh65/static/js/runtime-main.c5197176.js.map",
+    "static/js/2.cf0a7686.chunk.js": "https://adeways2000.github.io/csb-j5fh65/static/js/2.cf0a7686.chunk.js",
+    "static/js/2.cf0a7686.chunk.js.map": "https://adeways2000.github.io/csb-j5fh65/static/js/2.cf0a7686.chunk.js.map",
+    "index.html": "https://adeways2000.github.io/csb-j5fh65/index.html",
+    "precache-manifest.6de45918885fe3c07a0279c7059b8be1.js": "https://adeways2000.github.io/csb-j5fh65/precache-manifest.6de45918885fe3c07a0279c7059b8be1.js",
+    "service-worker.js": "https://adeways2000.github.io/csb-j5fh65/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5197176.js",
+    "static/js/2.cf0a7686.chunk.js",
+    "static/js/main.b8be8bf2.chunk.js"
+  ]
+}
